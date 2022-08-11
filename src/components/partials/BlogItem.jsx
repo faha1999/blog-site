@@ -1,5 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import { Chip } from '../common/Chip';
 
 export const BlogItem = ({
   blog: {
