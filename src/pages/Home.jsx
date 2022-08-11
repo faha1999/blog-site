@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { BlogList } from '../components/BlogList';
+import { EmptyList } from '../components/common/EmptyList';
 import { Header } from '../components/Header';
 import { Search } from '../components/Search';
 import { blogList } from '../data/blogData';
